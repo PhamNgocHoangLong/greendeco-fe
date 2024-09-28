@@ -56,16 +56,6 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 Distributed under the MIT License. See [LICENSE](https://github.com/minhman2501/greendeco-fe/blob/main/LICENSE.md) for more information.
 
-## Authors
-
-* **Man Pham** - *Student* - [Man Pham](https://github.com/minhman2501) - *Front-End Developing, UI/UX Designing*
-* **Tri Nguyen** - *Student* - [Tri Nguyen](https://github.com/uncleTen276/) - *Back-End Developing*
-
-## Acknowledgements
-
-* [Man Pham](https://github.com/minhman2501)
-* [Tri Nguyen](https://github.com/uncleTen276/)
-
 ## Learn More
 
 To learn more about Next.js, take a look at the following resources:
